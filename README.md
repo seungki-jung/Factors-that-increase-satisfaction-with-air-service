@@ -5,8 +5,19 @@
 사용한 패키지 : R
 
 데이터 분석 프로세스 : 데이터 수집-데이터 전처리-EDA-분할표 및 독립성 검정-로지스틱 회귀분석-모델 평가
-### Introduction
+### Object
 <img src="https://user-images.githubusercontent.com/76424262/217273596-fca28f39-0b6c-4bf3-9e8e-b1b28a7ccada.PNG">
 
 - 2021년 11월, 대한민국의 '위드 코로나' 시행으로 여행객들의 기대감이 높아져 한공 산업이 다시 눈을 뜨고 있음.
 - 고객이 항공사 서비스에 대해 만족도를 높이는 요인들을 찾아 니즈를 파악하고 이에 따른 인사이트를 도출하고자 함.
+
+### PreProcessing
+
+### EDA
+
+### Statistical Methodology
+
+#### 
+#### GLM
+
+### Result
