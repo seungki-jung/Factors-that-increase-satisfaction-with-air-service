@@ -6,4 +6,4 @@
 
 데이터 분석 프로세스 : 데이터 수집-데이터 전처리-EDA-분할표 및 독립성 검정-로지스틱 회귀분석-모델 평가
 ### Introduction
-![Alt text]("https://github.com/seungki-jung/Factors-that-increase-satisfaction-with-air-service/issues/1#issue-1574446405")
+![Alt text]("[https://github.com/seungki-jung/Factors-that-increase-satisfaction-with-air-service/issues/1#issue-1574446405](https://user-images.githubusercontent.com/76424262/217273596-fca28f39-0b6c-4bf3-9e8e-b1b28a7ccada.PNG)")
