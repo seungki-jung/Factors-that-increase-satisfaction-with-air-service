@@ -5,3 +5,5 @@
 사용한 패키지 : R
 
 데이터 분석 프로세스 : 데이터 수집-데이터 전처리-EDA-분할표 및 독립성 검정-로지스틱 회귀분석-모델 평가
+### Introduction
+![Alt text](C:\Users\Jeong SeungJu\OneDrive\바탕 화면\범자1){: width="60%"",height="40%""} 
