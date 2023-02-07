@@ -13,6 +13,7 @@
 
 ### PreProcessing
 <img src="https://user-images.githubusercontent.com/76424262/217278427-d4c91091-834c-4d88-b857-0a80c66f3b4a.PNG">
+
 - x,id와 같은 고유의 값 변수 제거
 - Arrival.Delay.in.Minutes변수에서 83개의 결측값 확인, 이후 결측값을 제거하였음
 - 만족도 척도(1~5)에 해당하지 않는 값을 결측치로 판단하여 제거
