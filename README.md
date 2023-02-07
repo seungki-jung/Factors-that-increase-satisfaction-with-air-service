@@ -6,4 +6,4 @@
 
 데이터 분석 프로세스 : 데이터 수집-데이터 전처리-EDA-분할표 및 독립성 검정-로지스틱 회귀분석-모델 평가
 ### Introduction
-<img src='C:\Users\Jeong SeungJu\OneDrive\바탕 화면\범자1' width="60%"" height="40%"> 
+<img src='file:///C:/Users/Jeong%20SeungJu/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EB%B2%94%EC%9E%901.PNG' width="60%"" height="40%"> 
