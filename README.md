@@ -33,7 +33,11 @@
 
 ### Statistical Methodology
 
-#### 
+#### Chi-square test of independence
+<img src="https://user-images.githubusercontent.com/76424262/217283244-3852b179-aafe-4587-ac8c-0a9a24e6a7ae.PNG">
+
+- 만족 여부를 두고 각 변수들과의 카이제곱검정에 의해 gender 변수를 제외한 모든 변수에서 종속 관계를 가짐
+
 #### GLM
 
 ### Result
