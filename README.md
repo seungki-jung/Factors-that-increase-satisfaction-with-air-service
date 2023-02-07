@@ -2,7 +2,7 @@
 
 부제 : 독립성검정, 로지스틱회귀분석 등의 ‘범주형 자료분석’방법을 활용하여 고객의 만족도를 높일 수 있는 요인 찾기
 
-#### 사용한 패키지 : R
+#### 사용한 분석 도구 : R
 
 #### 데이터 분석 프로세스 : 데이터 수집-데이터 전처리-EDA-분할표 및 독립성 검정-로지스틱 회귀분석-모델 평가
 ### Object
@@ -48,5 +48,7 @@
 
 <img src="https://user-images.githubusercontent.com/76424262/217285209-4c1b2b3e-590d-4790-a97f-f4b7d1e7d03a.PNG">
 #### Model Assessment
+
+<img src="https://user-images.githubusercontent.com/76424262/217285401-3929727d-f0e7-4708-9e9b-8425ba9e6397.PNG">
 
 ### Result
