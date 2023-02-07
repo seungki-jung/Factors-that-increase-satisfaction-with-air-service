@@ -39,7 +39,14 @@
 - 만족 여부를 두고 각 변수들과의 카이제곱검정에 의해 gender 변수를 제외한 모든 변수에서 종속 관계를 가짐
 
 #### GLM
+<img src="https://user-images.githubusercontent.com/76424262/217285031-a16aefd4-dbcf-432e-912b-0de5076e7b4e.PNG">
 
+- Flight.Distance, Seat.comfort, Inflight.entertainment에서 귀무가설을 채택하여 로지스틱 모형에 유의하지 않음
+- 절편이 없는 모형을 설정하여 Likelyhood Ratio검정을 실시, p-value가 0.001보다 작으므로 귀무가설을 기각하여 독립변수들 사이에 다중공선성이 존재
+- 다중공선성에 의해 모형이 과적합되는 문제를 해결하기 위해 Stepwise Variable Selection, Backward Elimination 사용
+- 변수 선택법에 의해 Flight.Distance, Inflight.entertainment, Seat.comfort, Departure Delay in Minutes,Arrival Delay in Minutes, ontime 변수를 제외한 모형을 최종 모형으로 채택
+
+<img src="https://user-images.githubusercontent.com/76424262/217285209-4c1b2b3e-590d-4790-a97f-f4b7d1e7d03a.PNG">
 #### Model Assessment
 
 ### Result
