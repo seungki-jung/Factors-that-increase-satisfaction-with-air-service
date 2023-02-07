@@ -13,6 +13,13 @@
 
 ### PreProcessing
 <img src="https://user-images.githubusercontent.com/76424262/217278427-d4c91091-834c-4d88-b857-0a80c66f3b4a.PNG">
+- x,id와 같은 고유의 값 변수 제거
+- Arrival.Delay.in.Minutes변수에서 83개의 결측값 확인, 이후 결측값을 제거하였음
+- 만족도 척도(1~5)에 해당하지 않는 값을 결측치로 판단하여 제거
+- Departure Delay in Minutes와 Arrival Delay in Minutes에 이상치가 존재하는 데이터들 제거(나이와 비행거리는 이상치가 존재하지만 의미가 있을 것 같아 제거하지 않았음)
+- 출발,도착 지연 시간Arrival Delay in Minutes와 Departure Delay in Minutes 차이를 계산하여 파생변수(ontime)생성(Arrival.Delay.in.Minutes-Departure.Delay.in.Minutes)
+
+
 ### EDA
 
 ### Statistical Methodology
