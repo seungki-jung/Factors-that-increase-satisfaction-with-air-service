@@ -12,7 +12,7 @@
 - 고객이 항공사 서비스에 대해 만족도를 높이는 요인들을 찾아 니즈를 파악하고 이에 따른 인사이트를 도출하고자 함.
 
 ### PreProcessing
-
+<img src="https://user-images.githubusercontent.com/76424262/217278427-d4c91091-834c-4d88-b857-0a80c66f3b4a.PNG">
 ### EDA
 
 ### Statistical Methodology
