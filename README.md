@@ -23,6 +23,10 @@
 
 ### EDA
 <img src="https://user-images.githubusercontent.com/76424262/217280656-b697360e-bdd1-4022-b6ae-2f8d14412e97.PNG">
+
+- 성별 : 두 범주 모두 여성 응답자가 남성보다 많았지만 남성과 여성 만족 여부 비율 비슷
+- 나이 : 25~50세의 청, 중장년층쪽에서 빈도가 높음
+
 <img src="https://user-images.githubusercontent.com/76424262/217280805-3e609805-0022-42eb-b00e-0a74d89cb63e.PNG">
 <img src="https://user-images.githubusercontent.com/76424262/217280987-52773ad6-91e8-4d92-971b-4e855a55238a.PNG">
 <img src="https://user-images.githubusercontent.com/76424262/217281106-04e9045e-f3c9-404d-9c59-d6be8ee8d3a3.PNG">
