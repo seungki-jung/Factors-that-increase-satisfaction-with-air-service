@@ -22,6 +22,10 @@
 
 
 ### EDA
+<img src="https://user-images.githubusercontent.com/76424262/217280656-b697360e-bdd1-4022-b6ae-2f8d14412e97.PNG">
+<img src="https://user-images.githubusercontent.com/76424262/217280805-3e609805-0022-42eb-b00e-0a74d89cb63e.PNG">
+<img src="https://user-images.githubusercontent.com/76424262/217280987-52773ad6-91e8-4d92-971b-4e855a55238a.PNG">
+<img src="https://user-images.githubusercontent.com/76424262/217281106-04e9045e-f3c9-404d-9c59-d6be8ee8d3a3.PNG">
 
 ### Statistical Methodology
 
