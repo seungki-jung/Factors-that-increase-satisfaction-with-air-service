@@ -47,6 +47,7 @@
 - 변수 선택법에 의해 Flight.Distance, Inflight.entertainment, Seat.comfort, Departure Delay in Minutes,Arrival Delay in Minutes, ontime 변수를 제외한 모형을 최종 모형으로 채택
 
 <img src="https://user-images.githubusercontent.com/76424262/217285209-4c1b2b3e-590d-4790-a97f-f4b7d1e7d03a.PNG">
+
 #### Model Assessment
 
 <img src="https://user-images.githubusercontent.com/76424262/217285401-3929727d-f0e7-4708-9e9b-8425ba9e6397.PNG">
